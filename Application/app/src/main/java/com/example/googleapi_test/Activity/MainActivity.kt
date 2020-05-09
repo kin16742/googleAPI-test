@@ -1,7 +1,8 @@
-package com.example.googleapi_test
+package com.example.googleapi_test.Activity
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import com.example.googleapi_test.R
 
 class MainActivity : AppCompatActivity() {
 
